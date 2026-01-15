@@ -43,4 +43,4 @@ spec:
   steps:
     - name: jest
       image: node:20-alpine
-      workingDir: $(workspac
+      workingDir: $(workspace)
